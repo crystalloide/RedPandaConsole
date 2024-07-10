@@ -1,5 +1,29 @@
 # Redpanda Console – A UI for Data Streaming
 
+#### TP rapide : ( lire plus bas pour davantage d'information )
+
+#### Rappel pour retrouver les environnements éventuellement précédemment instanciés dans Gitpod : https://gitpod.io/workspaces
+[# Pour afficher les workspaces déjà instanciés si besoin de faire du ménage :](https://gitpod.io/workspaces)
+
+#### Affichage du répertoire courant dans Gitpod : 
+
+    pwd
+
+    cd ~/doc/local
+
+## Install
+
+    docker compose up -d
+
+
+
+
+
+
+
+# Redpanda Console – A UI for Data Streaming
+
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/cloudhut/kowl)](https://goreportcard.com/report/github.com/cloudhut/kowl)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/redpanda-data/console?sort=semver)
 [![Docker Repository](https://img.shields.io/badge/docker%20image-ready-green "Docker Repository")](https://hub.docker.com/r/redpandadata/console/tags)
