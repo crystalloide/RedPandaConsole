@@ -12,7 +12,7 @@
 
     pwd
 
-    cd doc/local
+    cd docs/local
     
     cat docker-compose.yaml 
 
