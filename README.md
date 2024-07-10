@@ -9,7 +9,9 @@
 
     pwd
 
-    cd ~/doc/local
+    cd doc/local
+    
+    cat docker-compose.yaml 
 
 ## Install
 
